@@ -13,8 +13,8 @@ namespace EmployeeWageProblem
             //EmpAttendance empWage = new EmpAttendance();
             //empWage.Attendance();
             //DailyEmpWage.EmpWage();
-            //Console.ReadLine();
-            DailyEmpWage.EmpWage();
+            //DailyEmpWage.EmpWage();
+            SwitchCaseUse.SwitchCase();
             Console.ReadLine();
         }
     }
