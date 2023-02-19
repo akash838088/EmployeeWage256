@@ -16,7 +16,9 @@ namespace EmployeeWageProblem
             //DailyEmpWage.EmpWage();
             //SwitchCaseUse.SwitchCase();
             //MonthlyWages.EmployeeMonthlyWage();
-            TotalDaysHours.DaysHoursOfMonth();
+            //TotalDaysHours.DaysHoursOfMonth();
+            RefactorCode refactor = new RefactorCode();
+            refactor.MonthsHours();
             Console.ReadLine();
         }
     }
