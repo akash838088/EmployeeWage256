@@ -14,7 +14,8 @@ namespace EmployeeWageProblem
             //empWage.Attendance();
             //DailyEmpWage.EmpWage();
             //DailyEmpWage.EmpWage();
-            SwitchCaseUse.SwitchCase();
+            //SwitchCaseUse.SwitchCase();
+            MonthlyWages.EmployeeMonthlyWage();
             Console.ReadLine();
         }
     }
